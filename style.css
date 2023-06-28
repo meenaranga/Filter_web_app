@@ -1,0 +1,11 @@
+h3
+{
+    background-color: violet;
+    font-size: 40px;
+    text-align: center;
+}
+canvas
+{
+    border-color: black;
+    box-shadow: 9px 9px 20px navy;
+}
